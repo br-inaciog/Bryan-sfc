@@ -15,7 +15,7 @@
   <img height= "60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <br> <br> 
 
-### Contatos 📫
+### Contatos ☎️
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalvesbryan424@gmail.com)
 <a href= www.linkedin.com/in/eoliveiraa target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br> <br>
 
