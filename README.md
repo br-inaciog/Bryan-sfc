@@ -16,6 +16,6 @@
   <br> <br> 
 
 ### Contatos 📫
-[![Gmail](![6b79e4499b70a1f3d0e2817b7d063af7](https://github.com/user-attachments/assets/c5f662d5-684e-4703-b9fa-54a9b14ed11f))](mailto:goncalvesbryan424@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalvesbryan424@gmail.com)
 <a href= www.linkedin.com/in/eoliveiraa target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br> <br>
 
