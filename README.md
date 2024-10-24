@@ -9,6 +9,9 @@ Estou no Segundo Semestre de Dev. Integral🫠
 
 ##
 ##Meus Conhecimentos 😊:
-![pngwing com](https://github.com/user-attachments/assets/4b542181-aac2-4db6-a679-951bbf0b8345)
-![logo-html-5-256](https://github.com/user-attachments/assets/37d3bff1-fc06-4d55-90e6-5cda3262158b)
+  <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img  height="60" windth="60" src="https://cdn3d.iconscout.com/3d/free/thumb/free-c-language-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-mobile-developer-programming-pack-logos-icons-5453029.png?f=webp" /> 
+  <img height= "60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <br> <br> 
 
