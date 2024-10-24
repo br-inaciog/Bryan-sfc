@@ -7,4 +7,5 @@
 
 ##
 ##Meus Conhecimentos 😊:
+![download](https://github.com/user-attachments/assets/3bad9b30-69dc-4e7c-9e40-8a7d46359714)
 
