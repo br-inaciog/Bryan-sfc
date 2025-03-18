@@ -1,6 +1,6 @@
 # Olá! me Chamo Bryan ✌️
 
-⮑Atualmente no Segundo Semestre de Dev. Integral🫠
+⮑Atualmente no Terceiro Semestre de Dev. Integral🫠
 
 ###
 
