@@ -1,4 +1,4 @@
-# Olá! me Chamo Bryan
+# Olá! me Chamo Bryan🗣️
 
 ### ✓Cursando Desenvolvimento de Sistemas🖥️📚
 
