@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Bryan-sfc/Bryan-sfc">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcaumdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcaumdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bryan-sfc&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-sfc&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 ##
