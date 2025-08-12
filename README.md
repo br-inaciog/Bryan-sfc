@@ -4,7 +4,7 @@
 
 ## 
 
-### Informações:
+###->Informações:
 
 <div>
   <a href="https://github.com/Bryan-sfc/Bryan-sfc">
