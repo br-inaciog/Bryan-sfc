@@ -4,8 +4,12 @@
 
 ## 
 
-![macarena-salsicha-macarena](https://github.com/user-attachments/assets/cfef2e7c-4ae9-49d8-b8cd-c1401eeacdca)
-
+<div>
+  <a href="https://github.com/Bryan-sfc/Bryan-sfc">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcaumdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcaumdev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 ##
 
 ### ->Meus Conhecimentos 📝💯
